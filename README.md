@@ -1,4 +1,6 @@
-# System-Monitor
+# Summary
+
+Process-Monitor is an application for Linux distros which displays the real time information of all the running processos on the Linux system sych as CPU usage, RAM usage and much more related informations. It is a console application built using ncurses library.
 
 ## To setup and compile on your linux system
 
